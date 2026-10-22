@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+licensed-input/
+backups/
+reports/
+dist/
+*.sql
+*.sql.gz
+*.log
+.env
+config.php
+*.zip
